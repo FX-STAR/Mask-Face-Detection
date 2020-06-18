@@ -1,0 +1,6 @@
+*
+!.gitignore
+!*.sh
+!*.conf
+!*.json
+!*.txt

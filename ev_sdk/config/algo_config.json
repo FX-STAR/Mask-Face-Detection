@@ -1,0 +1,23 @@
+{
+    "gpu_id": 0,
+    "draw_roi_area": true,
+    "roi_color": [255, 255, 0, 0.7],
+    "roi": ["POLYGON((0 1,1 1,1 0,0 0))"],
+    "roi_line_thickness": 4,
+    "roi_fill": false,
+    "draw_result": true,
+    "draw_confidence": true,
+    "thresh": 0.5,
+
+    "dog_rect_color": [0, 255, 0, 0],
+    "object_rect_line_thickness": 3,
+    "object_text_color": [255, 255, 255, 0],
+    "object_text_bg_color": [50, 50, 50, 0],
+    "object_text_size": 30,
+    "draw_warning_text": true,
+    "warning_text": "WARNING! WARNING!",
+    "warning_text_size": 30,
+    "warning_text_color": [255, 255, 255, 0],
+    "warning_text_bg_color": [0, 0, 200, 0],
+    "warning_text_left_top": [0, 0]
+}
